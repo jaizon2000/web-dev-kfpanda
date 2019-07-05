@@ -1,0 +1,54 @@
+html {
+    background: lightblue url('images/kungfupandabackground.jpg') no-repeat fixed center;
+    background-size: fill;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 60px 0 5px;
+}
+
+.charac {
+    background-color: rgba(72, 116, 63, 0.7);
+    padding: 25px 0 10px;
+}
+
+.search {
+    padding: 5px 10px;
+
+}
+.wiki-btn {
+    text-decoration: none;
+    padding: 5px 40px;
+    background-color: rgba(72, 116, 63, 0.7);
+    border: 1px solid white;
+}
+.wiki-btn:hover {
+    background-color: white;
+    color: #48743F;
+}
+
+
+.white-font {
+    color: white;
+}
+.green {
+    background-color: #48743F;
+}
+.center {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h1,
+h2 {
+    font-family: 'Papyrus';
+}
