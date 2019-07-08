@@ -1,6 +1,6 @@
 html {
     background: lightblue url('images/kungfupandabackground.jpg') no-repeat fixed center;
-    background-size: fill;
+    background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
 
